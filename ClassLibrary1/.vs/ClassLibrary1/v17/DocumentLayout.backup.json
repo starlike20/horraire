@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\horraiview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\horraiview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\calendrier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\calendrier.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\calendrier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\calendrier.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\reservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\reservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fogan\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\reservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\reservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\programme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\initialisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\initialisation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\enseignants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\enseignants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0171BF-39A3-483D-B1DE-CDFC3671EDC1}|ClassLibrary1\\ClassLibrary1.vbproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\classlibrary1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FE0171BF-39A3-483D-B1DE-CDFC3671EDC1}|ClassLibrary1\\ClassLibrary1.vbproj|solutionrelative:classlibrary1\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\semaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\semaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\horraiview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4C854B14-7E1E-42FE-B3E7-F0B92566A1CB}|horraiview\\horraiview.csproj|solutionrelative:horraiview\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\iestinscrit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\iestinscrit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|c:\\users\\fogan\\source\\repos\\classlibrary1\\calendrieclassz\\salledeclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C79343-7D3A-4685-A22B-A8B235595CA7}|calendrieclassz\\calendrieclassz.csproj|solutionrelative:calendrieclassz\\salledeclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "calendrier.xaml",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\calendrier.xaml",
+              "RelativeDocumentMoniker": "horraiview\\calendrier.xaml",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\calendrier.xaml",
+              "RelativeToolTip": "horraiview\\calendrier.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:16:15.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "horraiview\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\MainWindow.xaml",
+              "RelativeToolTip": "horraiview\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:00:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\fogan\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Lecture seule]",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:44:54.312Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "horraiview.csproj",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\horraiview.csproj",
+              "RelativeDocumentMoniker": "horraiview\\horraiview.csproj",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\horraiview.csproj",
+              "RelativeToolTip": "horraiview\\horraiview.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T21:01:21.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "calendrier.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\calendrier.xaml.cs",
+              "RelativeDocumentMoniker": "horraiview\\calendrier.xaml.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\calendrier.xaml.cs",
+              "RelativeToolTip": "horraiview\\calendrier.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:16:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\Reservation.xaml.cs",
+              "RelativeDocumentMoniker": "horraiview\\Reservation.xaml.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\Reservation.xaml.cs",
+              "RelativeToolTip": "horraiview\\Reservation.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:41:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "horraiview\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\MainWindow.xaml.cs",
+              "RelativeToolTip": "horraiview\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAFMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:00:40.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyData.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\MyData.cs",
+              "RelativeDocumentMoniker": "horraiview\\MyData.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\MyData.cs",
+              "RelativeToolTip": "horraiview\\MyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:04:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "reservation.xaml",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\reservation.xaml",
+              "RelativeDocumentMoniker": "horraiview\\reservation.xaml",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\reservation.xaml",
+              "RelativeToolTip": "horraiview\\reservation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T22:40:25.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Reservation.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Reservation.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Reservation.cs",
+              "RelativeToolTip": "calendrieclassz\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:22:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Programme.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Programme.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Programme.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Programme.cs",
+              "RelativeToolTip": "calendrieclassz\\Programme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:48:02.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Etudiant.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Etudiant.cs",
+              "RelativeToolTip": "calendrieclassz\\Etudiant.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv00AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:44:35.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cours.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Cours.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Cours.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Cours.cs",
+              "RelativeToolTip": "calendrieclassz\\Cours.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:45:04.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Initialisation.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Initialisation.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Initialisation.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Initialisation.cs",
+              "RelativeToolTip": "calendrieclassz\\Initialisation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:49:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enseignants.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Enseignants.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Enseignants.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Enseignants.cs",
+              "RelativeToolTip": "calendrieclassz\\Enseignants.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:41:47.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Personne.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Personne.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Personne.cs",
+              "RelativeToolTip": "calendrieclassz\\Personne.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:40:38.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "horraiview\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\AssemblyInfo.cs",
+              "RelativeToolTip": "horraiview\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:31:37.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Semaine.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Semaine.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\Semaine.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\Semaine.cs",
+              "RelativeToolTip": "calendrieclassz\\Semaine.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:28:02.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.vb",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Class1.vb",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.vb",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\ClassLibrary1\\Class1.vb",
+              "RelativeToolTip": "ClassLibrary1\\Class1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-01T20:05:18.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\App.xaml.cs",
+              "RelativeDocumentMoniker": "horraiview\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\App.xaml.cs",
+              "RelativeToolTip": "horraiview\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:00:59.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\App.xaml",
+              "RelativeDocumentMoniker": "horraiview\\App.xaml",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\horraiview\\App.xaml",
+              "RelativeToolTip": "horraiview\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T21:00:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IEstinscrit.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\IEstinscrit.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\IEstinscrit.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\IEstinscrit.cs",
+              "RelativeToolTip": "calendrieclassz\\IEstinscrit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:47:15.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SalleDeClasse.cs",
+              "DocumentMoniker": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\SalleDeClasse.cs",
+              "RelativeDocumentMoniker": "calendrieclassz\\SalleDeClasse.cs",
+              "ToolTip": "C:\\Users\\fogan\\source\\repos\\ClassLibrary1\\calendrieclassz\\SalleDeClasse.cs",
+              "RelativeToolTip": "calendrieclassz\\SalleDeClasse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:46:02.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

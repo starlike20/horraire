@@ -1,0 +1,16 @@
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier_MarkupCompile.cache
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\bin\Debug\net8.0-windows\calendrier.exe
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\bin\Debug\net8.0-windows\calendrier.deps.json
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\bin\Debug\net8.0-windows\calendrier.runtimeconfig.json
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\bin\Debug\net8.0-windows\calendrier.dll
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\bin\Debug\net8.0-windows\calendrier.pdb
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.AssemblyInfoInputs.cache
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.AssemblyInfo.cs
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.csproj.CoreCompileInputs.cache
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.dll
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\refint\calendrier.dll
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.pdb
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\calendrier.genruntimeconfig.cache
+C:\Users\fogan\source\repos\ClassLibrary1\calendrier\obj\Debug\net8.0-windows\ref\calendrier.dll

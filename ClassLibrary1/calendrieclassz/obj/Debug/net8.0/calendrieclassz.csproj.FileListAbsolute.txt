@@ -1,0 +1,11 @@
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\bin\Debug\net8.0\calendrieclassz.deps.json
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\bin\Debug\net8.0\calendrieclassz.dll
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\bin\Debug\net8.0\calendrieclassz.pdb
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\calendrieclassz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\calendrieclassz.AssemblyInfoInputs.cache
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\calendrieclassz.AssemblyInfo.cs
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\calendrieclassz.csproj.CoreCompileInputs.cache
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\calendrieclassz.dll
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\refint\calendrieclassz.dll
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\calendrieclassz.pdb
+C:\Users\fogan\source\repos\ClassLibrary1\calendrieclassz\obj\Debug\net8.0\ref\calendrieclassz.dll

@@ -1,0 +1,215 @@
+﻿<Window x:Class="horraiview.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:horraiview"
+        mc:Ignorable="d"
+        Title="principale" Height="600" Width="900"
+        d:DataContext="{d:DesignInstance local:MyData, IsDesignTimeCreatable=True}">
+    <Grid Background="#FFC3A0BB">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="18*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Horraire-hepl" FontSize="25" HorizontalAlignment="Center"  VerticalAlignment="Center" Grid.Row="0" FontFamily="Segoe UI Black"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="4*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition  Height="4*"/>
+                    <RowDefinition  Height="15*"/>
+                    <RowDefinition  Height="6*"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="1" Grid.Column="1" Margin="10,10,10,10" BorderBrush="#660006FF" BorderThickness="0,0,4,4" CornerRadius="15" >
+                    <Border BorderBrush="#7FFFFFFF" BorderThickness="2,2,0,0" CornerRadius="15" Background="White">
+                        <Grid  >
+                            <Grid.RowDefinitions>
+                                <RowDefinition  Height="4*"/>
+                                <RowDefinition  Height="15*"/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" CornerRadius="12,12,0,0" Background="Blue" BorderBrush="#6688888D" BorderThickness="0,0,0,4">
+                                <Border.OpacityMask>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FF364FF0" Offset="3"/>
+                                    </LinearGradientBrush>
+                                </Border.OpacityMask>
+
+                                <Grid >
+                                    <Label HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="15" Foreground="White" FontFamily="Arial Black">
+                                        horraire groupe etudiants
+                                    </Label>
+                                </Grid>
+                            </Border>
+                            <Grid  Grid.Row="1">
+
+                                <ComboBox x:Name="group" ItemsSource="{Binding Programmes}" DisplayMemberPath="Nom" Margin="10,23,10,105" Height="20" Text="selection" Background="White" SelectionChanged="ComboBox_SelectionChanged">
+
+                                </ComboBox>
+
+
+                                <CheckBox Margin="10,74,10,54" Checked="CheckBox_Checked" Height="20">rester connecter</CheckBox>
+                                <Border Width="100" Height="25" Margin="27,108,27,10" Background="Blue" CornerRadius="5,5,5,5">
+                                    <Button Content="envoyer" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}" Height="25" Click="Button_Click"/>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Border>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="4*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition  Height="8*"/>
+                    <RowDefinition  Height="15*"/>
+                    <RowDefinition  Height="2*"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="1" Grid.Column="1" Margin="10,10,10,10" BorderBrush="#66F932DA" BorderThickness="0,0,4,4" CornerRadius="15" >
+                    <Border BorderBrush="#7FFFFFFF" BorderThickness="2,2,0,0" CornerRadius="15" Background="White">
+                        <Grid  >
+                            <Grid.RowDefinitions>
+                                <RowDefinition  Height="4*"/>
+                                <RowDefinition  Height="15*"/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" CornerRadius="12,12,0,0" Background="#FFF932DA" BorderBrush="#FFF932DA" BorderThickness="0,0,0,4">
+                                <Border.OpacityMask>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FFF932DA" Offset="3"/>
+                                    </LinearGradientBrush>
+                                </Border.OpacityMask>
+
+                                <Grid >
+                                    <Label HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="White" FontSize="15" FontFamily="Arial Black">
+                                        occupation d'un local
+                                    </Label>
+                                </Grid>
+                            </Border>
+                            <Grid  Grid.Row="1">
+                                <ComboBox Name="salle" ItemsSource="{Binding Salles}" DisplayMemberPath="NomSalle" Margin="10,23,10,105" Height="20" Text="selection" Background="White" SelectionChanged="ComboBox_SelectionChanged">
+
+                                </ComboBox>
+                                <CheckBox Margin="10,74,10,54" Checked="CheckBox_Checked" Height="20">rester connecter</CheckBox>
+                                <Border Width="100" Height="25" Margin="27,108,27,10" Background="#FFF932DA" CornerRadius="5,5,5,5">
+                                    <Button Content="envoyer" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click_1"/>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Border>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="4*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition  Height="4*"/>
+                    <RowDefinition  Height="15*"/>
+                    <RowDefinition  Height="6*"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="1" Grid.Column="1" Margin="10,10,10,10" BorderBrush="#66F99232" BorderThickness="0,0,4,4" CornerRadius="15" >
+                    <Border BorderBrush="#7FFFFFFF" BorderThickness="2,2,0,0" CornerRadius="15" Background="White">
+                        <Grid  >
+                            <Grid.RowDefinitions>
+                                <RowDefinition  Height="4*"/>
+                                <RowDefinition  Height="15*"/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" CornerRadius="12,12,0,0" Background="#FFF99232" BorderBrush="#FFE9D2E6" BorderThickness="0,0,0,4">
+                                <Border.OpacityMask>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FFF99232" Offset="3"/>
+                                    </LinearGradientBrush>
+                                </Border.OpacityMask>
+
+                                <Grid >
+                                    <Label HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="White" FontSize="15" FontFamily="Arial Black">
+                                        horraire d'un enseignat
+                                    </Label>
+                                </Grid>
+                            </Border>
+                            <Grid  Grid.Row="1">
+                                <ComboBox x:Name="Ensei" ItemsSource="{Binding Enseignants}" DisplayMemberPath="Nom" Margin="10,23,10,105" Height="20" Text="selection" Background="White" SelectionChanged="ComboBox_SelectionChanged">
+
+                                </ComboBox>
+                                <CheckBox Margin="10,74,10,54" Checked="CheckBox_Checked" Height="20">rester connecter</CheckBox>
+                                <Border Width="100" Height="25" Margin="27,108,27,10" Background="#FFF99232" CornerRadius="5,5,5,5">
+                                    <Button Content="envoyer" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click_2"/>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Border>
+            </Grid>
+            <Grid Grid.Column="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="4*"/>
+
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition  Height="8*"/>
+                    <RowDefinition  Height="15*"/>
+                    <RowDefinition  Height="2*"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="1" Grid.Column="1" Margin="10,10,10,10" BorderBrush="#66F9326E" BorderThickness="0,0,4,4" CornerRadius="15" >
+                    <Border BorderBrush="#7FFFFFFF" BorderThickness="2,2,0,0" CornerRadius="15" Background="White">
+                        <Grid  >
+                            <Grid.RowDefinitions>
+                                <RowDefinition  Height="4*"/>
+                                <RowDefinition  Height="15*"/>
+                            </Grid.RowDefinitions>
+                            <Border Grid.Row="0" CornerRadius="12,12,0,0" Background="#FFF9326E" BorderBrush="#FFE9D2E6" BorderThickness="0,0,0,4">
+                                <Border.OpacityMask>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black"/>
+                                        <GradientStop Color="#FFF99232" Offset="3"/>
+                                    </LinearGradientBrush>
+                                </Border.OpacityMask>
+
+                                <Grid >
+                                    <Label HorizontalAlignment="Center"  VerticalAlignment="Center" Foreground="White" FontSize="15" FontFamily="Arial Black">
+                                        acces enseignant
+                                    </Label>
+                                </Grid>
+                            </Border>
+                            <Grid  Grid.Row="1">
+                                <ComboBox ItemsSource="{Binding Enseignants}" DisplayMemberPath="Nom" Margin="10,23,10,105" Height="20" Text="selection" Background="White" SelectionChanged="ComboBox_SelectionChanged"/>
+
+
+                                <CheckBox Margin="10,74,10,54" Checked="CheckBox_Checked" Height="20">rester connecter</CheckBox>
+                                <Border Width="100" Height="25" Margin="27,108,27,10" Background="#FFF9326E" CornerRadius="5,5,5,5">
+                                    <Button Content="envoyer" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="{x:Null}" BorderBrush="{x:Null}"/>
+                                </Border>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Border>
+            </Grid>
+        </Grid>
+
+
+    </Grid>
+
+</Window>
